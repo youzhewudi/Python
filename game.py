@@ -1,3 +1,4 @@
+#！/usr/bin/env python
 # 1 - Import library
 import pygame
 from pygame.locals import *
