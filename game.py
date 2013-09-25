@@ -9,7 +9,7 @@ width, height = 640, 480
 screen=pygame.display.set_mode((width, height))
 
 # 3 - Load images
-player = pygame.image.load("resources/images/dude.png")
+player = pygame.image.load("../../resources/images/dude.png")
 
 # 4 - keep looping through
 while 1:
